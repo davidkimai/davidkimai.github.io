@@ -24,7 +24,6 @@ You'll find projects here that range from neural interpretability tools to inves
 Outside of research, I enjoy storytelling, science fiction, and visualizing complex systems in ways that make them more human-understandable. I’m always curious about how we can use structure—not just speed—to solve problems more ethically and intelligently.
 
 Thanks for visiting—feel free to explore, fork, or connect. I believe there's a lot to learn ahead!
-### *P.S. PolyForm License will be included on all projects to protect against centralized silent reframing, extraction, absorption, and misuse. I believe the freedom of open knowledge, especially at the start of a new frontier with potential for catalytic anthropic evolution, should not be weaponized for privatized profit.*
 
 ### – David Kim
 
