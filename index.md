@@ -3,9 +3,10 @@ layout: default
 title: David Kim
 ---
 
+## [Recursive Labs](https://recursivelabsai.github.io)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15485942.svg)](https://doi.org/10.5281/zenodo.15485942)
 
-## [Recursive Labs](https://recursivelabsai.github.io)
 
 **Forward-Deployed Systems Engineering | Zero-Trust Systems Infrastructure | AI Creative Emergence & Reflective Reasoning Research**
 > *AI Research and Utility For Innovators Advancing Discovery At The Frontier*
