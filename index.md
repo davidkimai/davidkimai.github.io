@@ -3,7 +3,7 @@ layout: default
 title: David Kim
 ---
 
-## [Recursive Labs](https://recursivelabsai.github.io)
+# [Recursive Labs](https://recursivelabsai.github.io)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15485942.svg)](https://doi.org/10.5281/zenodo.15485942)
 
