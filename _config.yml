@@ -28,8 +28,7 @@ github:
 # Site-wide metadata
 show_downloads: false
 permalink: pretty
-baseurl: "/Recursive-Labs"
-url: "https://recursivelabsai.github.io"
+url: "https://davidkimai.github.io"
 
 # Visual brand assets (optional)
 logo: /assets/logo.png
